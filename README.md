@@ -19,7 +19,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adham20022020&theme=dracula)
 
 ## Top Languages by Repo
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adham20022020&theme=default&title=My%20Repositories%20by%20Language)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adham20022020&theme=dracula)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adham20022020&theme=dracula)
