@@ -18,12 +18,18 @@
 ## Contributions
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adham20022020&theme=dracula)
 
+
 ## Top Languages by Repo
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adham20022020&show_icons=true&locale=en&layout=compact&theme=algolia&hide=&langs_count=100" alt="adham20022020" /></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adham20022020&show_icons=true&locale=en&layout=compact&theme=algolia&hide=&langs_count=100" alt="adham20022020" />
+  </div>
 
-
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adham20022020&theme=dracula)
+ ## Stats 
+  <div style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adham20022020&theme=dracula" alt="adham20022020 stats" />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
