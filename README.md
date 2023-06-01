@@ -32,7 +32,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adham20022020&theme=dracula)
 
 
-## Top Languages by Repo
+# Top Languages by Repo
 <!--
 Most Used Language 
 -->
@@ -41,7 +41,7 @@ Most Used Language
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adham20022020&show_icons=true&locale=en&layout=compact&theme=algolia&hide=&langs_count=100" alt="adham20022020" />
   </div>
 
- ## Stats 
+# 📊 GitHub Stats:
   <div style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adham20022020&theme=dracula" alt="adham20022020 stats" />
   </div>
