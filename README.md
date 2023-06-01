@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <p align="center">
   <img align="center" width="400" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Adham+Ashraf;A+passionate+backend+developer">
 </p>
@@ -40,7 +41,7 @@ Most Used Language
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adham20022020&show_icons=true&locale=en&layout=compact&theme=algolia&hide=&langs_count=100" alt="adham20022020" />
   </div>
-  
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adham20022020&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -54,3 +55,4 @@ Most Used Language
 <p align="left">
 <a href="https://www.facebook.com/john.poter.393950/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhman.shalby.37/" height="30" width="40" /></a>
 </p>
+</div>
