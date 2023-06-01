@@ -40,8 +40,10 @@ Most Used Language
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adham20022020&show_icons=true&locale=en&layout=compact&theme=algolia&hide=&langs_count=100" alt="adham20022020" />
   </div>
+  
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adham20022020&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 # 📊 GitHub Stats:
   <div style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adham20022020&theme=dracula" alt="adham20022020 stats" />
